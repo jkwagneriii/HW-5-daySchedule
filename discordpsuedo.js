@@ -8,11 +8,12 @@
 //First task on the page is to get the date to display./////We'll use .text to get the API data to appear in the   <p id="currentDay"> tag. 
 
 //Create timeblocks and buttons with bootstrap. BREAKDOWN
-//Each row has 3 columns 
+//Each (9) row has 3 columns 
 //Column 1 is the time (static)
 //Column 2 is the form (bootstrap) and will be working with Moment.js to get the current time of day
 //Column 3 is the button which will be working with local storage
 
 // This will be syntax used while working with Moment.js
+//Look at the .format section of the docs
 // moment().year(year).month(month).date(day)
 
