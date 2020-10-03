@@ -2,7 +2,6 @@
 
 //When I click onto one of the timeslots, AKA the form, I can type in some text that I would like to save to my schedule. That form will be connected to a button that saves the text submission to the local storage of my device. When the page is reloaded, my text will still be in the correct timeslot. 
 
-
 //Remember - must use Moment.js to work with date & time.
 // https://momentjs.com/
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.0/moment.min.js" integrity="sha512-Izh34nqeeR7/nwthfeE0SI3c8uhFSnqxV0sI9TvTcXiFJkMd6fB644O64BRq2P/LA/+7eRvCw4GmLsXksyTHBg==" crossorigin="anonymous"></script>
