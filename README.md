@@ -9,3 +9,4 @@ This video helped me get started when it came to using moment to actually displa
 https://www.youtube.com/watch?v=iDGSVzEwa7A
 
 After working through my functions in my tutor session, the order of working through JS FINALLLY started to click a bit more. I still have a long way to go, but knowing that I had to make the app check the time of day and have it return a class name into a text area is enough to get me stoked on this assignment and want to keep pushing through.
+
